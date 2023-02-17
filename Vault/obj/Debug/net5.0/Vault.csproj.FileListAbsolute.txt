@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\TriangularArea\Vault\bin\Debug\net5.0\Vault.exe
+C:\Users\user\Desktop\TriangularArea\Vault\bin\Debug\net5.0\Vault.deps.json
+C:\Users\user\Desktop\TriangularArea\Vault\bin\Debug\net5.0\Vault.runtimeconfig.json
+C:\Users\user\Desktop\TriangularArea\Vault\bin\Debug\net5.0\Vault.runtimeconfig.dev.json
+C:\Users\user\Desktop\TriangularArea\Vault\bin\Debug\net5.0\Vault.dll
+C:\Users\user\Desktop\TriangularArea\Vault\bin\Debug\net5.0\Vault.pdb
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\Vault.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\Vault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\Vault.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\Vault.AssemblyInfo.cs
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\Vault.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\Vault.dll
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\refint\Vault.dll
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\Vault.pdb
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\Vault.genruntimeconfig.cache
+C:\Users\user\Desktop\TriangularArea\Vault\obj\Debug\net5.0\ref\Vault.dll
